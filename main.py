@@ -15,7 +15,7 @@ screen = pygame.display.set_mode((WIDTH, HEIGHT))
 
 clock = pygame.time.Clock()
 FPS = 60
-
+print("hello world")
 running = True
 while running:
 
